@@ -1,0 +1,11 @@
+*
+!Diagrams/
+!Diagrams/*
+!Improving Synchronization Stability of VSC via Novel Anti-windup Augmented Phase-Locked Loop.pdf
+!.gitignore
+!README.md
+!VSC*
+!AW_synthesis/
+!AW_synthesis/**/
+!AW_synthesis/performance_based_activated_static_AW/
+!AW_synthesis/performance_based_activated_static_AW/*
