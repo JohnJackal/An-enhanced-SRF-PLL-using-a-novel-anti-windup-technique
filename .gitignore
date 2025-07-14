@@ -9,3 +9,6 @@
 !AW_synthesis/**/
 !AW_synthesis/performance_based_activated_static_AW/
 !AW_synthesis/performance_based_activated_static_AW/*
+!journal_paper/
+!journal_paper/paper.tex
+!journal_paper/references.bib
